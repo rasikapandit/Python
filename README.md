@@ -2,16 +2,16 @@
 Python is a powerful multi-purpose programming language created by Guido van Rossum. It has simple easy-to-use syntax, making it the perfect language for someone trying to learn computer programming for the first time.
 Python is a general purpose and high level programming language. You can use Python for developing desktop GUI applications, websites and web applications.
 
-## ** Why should Python be used?**
-** Readbale **
+## **Why should Python be used?**
+**Readbale**
    Python, unlike other programming languages, emphasizes on code readability, and allows you to use English keywords instead of punctuations.
-** Multiple Programming Paradigm **
+**Multiple Programming Paradigm**
    It supports object oriented and structured programming fully. Also, its language features support various concepts in functional and aspect-oriented programming. At the same time, Python also features a dynamic type system and automatic memory management.
-** Compatible with Major Platforms and Systems **
+**Compatible with Major Platforms and Systems**
    At present, Python is supports many operating systems. You can even use Python interpreters to run the code on specific platforms and tools.It allows you to you to run the same code on multiple platforms without recompilation.
-** Robust Standard Library **
+**Robust Standard Library**
    Its large and robust standard library makes Python score over other programming languages. The standard library allows you to choose from a wide range of modules according to your precise needs. Each module further enables you to add functionality to the Python application without writing additional code. 
-** Many Open Source Frameworks and Tools **
+**Many Open Source Frameworks and Tools**
    As an open source programming language, Python helps you to curtail software development cost significantly. You can even use several open source Python frameworks, libraries and development tools.
    [For more information visit:](https://medium.com/@mindfiresolutions.usa/python-7-important-reasons-why-you-should-use-python-5801a98a0d0b)
 ## **Python Programs**
