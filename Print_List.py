@@ -5,4 +5,5 @@ for element in a:
     if element < num:
         mylist.append(element)
 print(mylist)
-
+# To print in one line
+print([x for x in a if x < num])
