@@ -43,55 +43,55 @@ As an open source programming language, Python helps you to curtail software dev
 ### 5. Check_Primality_Functions.py
    Ask the user for a number and determine whether the number is prime or not.
   
-  [Print_Check_Primality_Functions.py](https://github.com/Aakanksha-Mane/Python/blob/master/Check_Primality_Functions.py)
+  [Check_Primality_Functions.py](https://github.com/Aakanksha-Mane/Python/blob/master/Check_Primality_Functions.py)
 ### 6. Cows_and_Bulls.py
    Randomly generating a 4-digit number. The user have to guess a 4-digit number. For every digit that the user guessed correctly in the correct place, they have a “cow”. For every digit the user guessed correctly in the wrong place is a “bull.” It will tell user how many “cows” and “bulls” he/she have. Once the user guesses the correct number, the game is over. 
 
-  [Print_Cows_and_Bulls.py](https://github.com/Aakanksha-Mane/Python/blob/master/Cows_and_Bulls.py)
+  [Cows_and_Bulls.py](https://github.com/Aakanksha-Mane/Python/blob/master/Cows_and_Bulls.py)
 ### 7. Guessing_Game.py
    Generating a random number between 1 and 9. Asks the user to guess the number, then tell them whether they guessed too low, too high, or exactly right.
   
-  [Print_Guessing_Game.py](https://github.com/Aakanksha-Mane/Python/blob/master/Guessing_Game.py)
+  [Guessing_Game.py](https://github.com/Aakanksha-Mane/Python/blob/master/Guessing_Game.py)
 ### 8. List_Comprehensions.py
    One line of Python that takes the list and makes a new list that has only the even elements of this list in it.
   
-  [Print_List_Comprehensions.py](https://github.com/Aakanksha-Mane/Python/blob/master/List_Comprehensions.py)
+  [List_Comprehensions.py](https://github.com/Aakanksha-Mane/Python/blob/master/List_Comprehensions.py)
 ### 9. List_Ends.py
    A program that takes a list of numbers and makes a new list of only the first and last elements of the given list. 
   
-  [Print_List_Ends.py](https://github.com/Aakanksha-Mane/Python/blob/master/List_Ends.py)
+  [List_Ends.py](https://github.com/Aakanksha-Mane/Python/blob/master/List_Ends.py)
 ### 10. List_Overlap.py
    A program that returns a list that contains only the elements that are common between the two lists of different sizes(without duplicates). 
 
-  [Print_List_Overlap.py](https://github.com/Aakanksha-Mane/Python/blob/master/List_Overlap.py)
+  [List_Overlap.py](https://github.com/Aakanksha-Mane/Python/blob/master/List_Overlap.py)
 ### 11. List_Overlap_Comprehensions.py
    A program that returns a list that contains only the elements that are common between the lists (without duplicates) in one line of python code using at least one list comprehension. 
 
-  [Print_List_Overlap_Comprehensions.py](https://github.com/Aakanksha-Mane/Python/blob/master/List_Overlap_Comprehensions.py)
+  [List_Overlap_Comprehensions.py](https://github.com/Aakanksha-Mane/Python/blob/master/List_Overlap_Comprehensions.py)
 ### 12. List_Remove_Duplicates.py
    A program that takes a list and returns a new list that contains all the elements of the first list minus all the duplicates.
 
-  [Print_List_Remove_Duplicates.py](https://github.com/Aakanksha-Mane/Python/blob/master/List_Remove_Duplicates.py)
+  [List_Remove_Duplicates.py](https://github.com/Aakanksha-Mane/Python/blob/master/List_Remove_Duplicates.py)
 ### 13. Password_Generator.py
   A password generator in Python - generates strong passwords have a mix of lowercase letters, uppercase letters, numbers, and symbols. The passwords are random, generating a new password every time the user asks for a new password. 
 
-  [Print_Password_Generator.py](https://github.com/Aakanksha-Mane/Python/blob/master/Password_Generator.py)
+  [Password_Generator.py](https://github.com/Aakanksha-Mane/Python/blob/master/Password_Generator.py)
 ### 14. Reverse_Word_Order.py
   A program that asks the user for a long string containing multiple words. Print back to the user the same string, except with the words in backwards order. 
   
-  [Print_Reverse_Word_Order.py](https://github.com/Aakanksha-Mane/Python/blob/master/Reverse_Word_Order.py)
+  [Reverse_Word_Order.py](https://github.com/Aakanksha-Mane/Python/blob/master/Reverse_Word_Order.py)
 ### 15. Rock_Paper_Scissors.py
   A two-player Rock-Paper-Scissors game!
   
-  [Print_Rock_Paper_Scissors.py](https://github.com/Aakanksha-Mane/Python/blob/master/Rock_Paper_Scissors.py)
+  [Rock_Paper_Scissors.py](https://github.com/Aakanksha-Mane/Python/blob/master/Rock_Paper_Scissors.py)
 ### 16. String_Lists.py
   Ask the user for a string and print out whether this string is a palindrome or not. (A palindrome is a string that reads the same forwards and backwards.)
   
-  [Print_String_Lists.py](https://github.com/Aakanksha-Mane/Python/blob/master/String_Lists.py)
+  [String_Lists.py](https://github.com/Aakanksha-Mane/Python/blob/master/String_Lists.py)
 ### 17. Fibonacci.py
   A program that asks the user how many Fibonnaci numbers to generate and then generates them. 
   
-  [Print_fibonacci.py](https://github.com/Aakanksha-Mane/Python/blob/master/fibonacci.py)
+  [fibonacci.py](https://github.com/Aakanksha-Mane/Python/blob/master/fibonacci.py)
 
 
 
